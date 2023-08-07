@@ -1,0 +1,204 @@
+html{
+    background-color: rgb(241, 230, 206); 
+}
+#botonPO{
+    float:left;
+    position: relative;
+    margin-left: 120px;
+    margin-top: 30px;
+    font-size:17px;
+    color: rgb(219, 82, 2);
+    background-color:rgb(243, 159, 110);
+    font-family: cursive;
+    border-radius: 50%;
+    border-top: 5px;
+    border-color: rgb(219, 82, 2);
+    border-width: 2px;
+    border-style:solid;
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+}
+#botonFI{
+    float:left;
+    position: relative;
+    margin-left: 130px;
+    margin-top: 30px;
+    font-size:17px;
+    color: rgb(219, 82, 2);
+    background-color:rgb(243, 159, 110);
+    font-family: cursive;
+    border-radius: 50%;
+    border-top: 5px;
+    border-color: rgb(219, 82, 2);
+    border-width: 2px;
+    border-style:solid;
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+}
+#botonPL{
+    float:left;
+    position: relative;
+    margin-left: 130px;
+    margin-top: 30px;
+    font-size:17px;
+    color: rgb(219, 82, 2);
+    background-color:rgb(243, 159, 110);
+    font-family: cursive;
+    border-radius: 50%;
+    border-top: 5px;
+    border-color: rgb(219, 82, 2);
+    border-width: 2px;
+    border-style:solid;
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+}
+#botonSN{
+    float:left;
+    position: relative;
+    margin-left: 130px;
+    margin-top: 30px;
+    font-size:17px;
+    color: rgb(219, 82, 2);
+    background-color:rgb(243, 159, 110);
+    font-family: cursive;
+    border-radius: 50%;
+    border-top: 5px;
+    border-color: rgb(219, 82, 2);
+    border-width: 2px;
+    border-style:solid;
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+}
+#botonBE{
+    float:left;
+    position: relative;
+    margin-left: 130px;
+    margin-top: 30px;
+    font-size:17px;
+    color: rgb(219, 82, 2);
+    background-color:rgb(243, 159, 110);
+    font-family: cursive;
+    border-radius: 50%;
+    border-top: 5px;
+    border-color: rgb(219, 82, 2);
+    border-width: 2px;
+    border-style:solid;
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+}
+.linea-separadora{
+    height: 5px;
+    width: 1050px;
+    background-color: #000000;
+    margin: auto;
+    position: relative;
+    top: 170px;
+}
+#recomendaciones{
+    color: rgb(219, 82, 2);
+    background-color: rgb(243, 159, 110);
+    border: 2px solid rgb(219, 82, 2);
+    position: absolute;
+    top: 210px;
+    height: 25px;
+    width: 170px;
+    margin-left: 110px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#imagen1{
+    float:left;
+    position: relative;
+    margin-left: 110px;
+    margin-top: 30px;
+    display: inline-block;
+    height: 5cm;
+    width: 7cm;
+    top: 140px;
+}
+#imagen2{
+    float:left;
+    position: relative;
+    margin-left: 110px;
+    margin-top: 30px;
+    display: inline-block;
+    height: 5cm;
+    width: 7cm;
+    top: 140px;
+}
+#imagen3{
+    float:left;
+    position: relative;
+    margin-left: 110px;
+    margin-top: 30px;
+    display: inline-block;
+    height: 5cm;
+    width: 7cm;
+    top: 140px;
+}
+#imagen4{
+    float:left;
+    position: relative;
+    margin-left: 110px;
+    margin-top: 30px;
+    display: inline-block;
+    height: 5cm;
+    width: 7cm;
+    top: 140px;
+}
+#imagen5{
+    float:left;
+    position: relative;
+    margin-left: 110px;
+    margin-top: 30px;
+    display: inline-block;
+    height: 5cm;
+    width: 7cm;
+    top: 140px;
+}
+#imagen6{
+    float:left;
+    position: relative;
+    margin-left: 110px;
+    margin-top: 30px;
+    display: inline-block;
+    height: 5cm;
+    width: 7cm;
+    top: 140px;
+}
+#imagen7{
+    float:left;
+    position: relative;
+    margin-left: 110px;
+    margin-top: 30px;
+    display: inline-block;
+    height: 5cm;
+    width: 7cm;
+    top: 140px;
+}
+#imagen8{
+    float:left;
+    position: relative;
+    margin-left: 110px;
+    margin-top: 30px;
+    display: inline-block;
+    height: 5cm;
+    width: 7cm;
+    top: 140px;
+}
+#imagen9{   
+   float:left;
+   position: relative;
+   margin-left: 110px;
+   margin-top: 30px;
+   display: inline-block;
+   height: 5cm;
+   width: 7cm;
+   top: 140px;
+}
